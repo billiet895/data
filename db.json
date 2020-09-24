@@ -1,58 +1,58 @@
 {
   "players": [
-  {
-    "id": "5f68e30dcf02523b187795aa",
-    "score": 115,
-    "rank": 152,
-    "username": "Erin"
-  },
-  {
-    "id": "5f68e30d93262f3f74130806",
-    "score": 152,
-    "rank": 153,
-    "username": "Dominguez"
-  },
-  {
-    "id": "5f68e30d494aca1d57b42562",
-    "score": 267,
-    "rank": 95,
-    "username": "Lourdes"
-  },
-  {
-    "id": "5f68e30dbd78f8772754dc53",
-    "score": 172,
-    "rank": 128,
-    "username": "Merle"
-  },
-  {
-    "id": "5f68e30d101c61255be15b4b",
-    "score": 274,
-    "rank": 40,
-    "username": "Marissa"
-  },
-  {
-    "id": "5f68e30d3317a9d2d1480cb2",
-    "score": 59,
-    "rank": 172,
-    "username": "Hester"
-  },
-  {
-    "id": "5f68e30d5fe6c50bc4060aed",
-    "score": 142,
-    "rank": 116,
-    "username": "Georgia"
-  },
-  {
-    "id": "5f68e30d59d486072c7a8425",
-    "score": 155,
-    "rank": 52,
-    "username": "Little"
-  },
-  {
-    "id": "5f68e30dbd609e3505f38dab",
-    "score": 273,
-    "rank": 91,
-    "username": "Aguilar"
-  }
-]
+    {
+      "id": "5f68e30dcf02523b187795aa",
+      "score": 115,
+      "rank": 152,
+      "username": "Erin"
+    },
+    {
+      "id": "5f68e30d93262f3f74130806",
+      "score": 152,
+      "rank": 153,
+      "username": "Dominguez"
+    },
+    {
+      "id": "5f68e30d494aca1d57b42562",
+      "score": 267,
+      "rank": 95,
+      "username": "Lourdes"
+    },
+    {
+      "id": "5f68e30dbd78f8772754dc53",
+      "score": 172,
+      "rank": 128,
+      "username": "Merle"
+    },
+    {
+      "id": "5f68e30d101c61255be15b4b",
+      "score": 274,
+      "rank": 40,
+      "username": "Marissa"
+    },
+    {
+      "id": "5f68e30d3317a9d2d1480cb2",
+      "score": 59,
+      "rank": 172,
+      "username": "Hester"
+    },
+    {
+      "id": "5f68e30d5fe6c50bc4060aed",
+      "score": 142,
+      "rank": 116,
+      "username": "Georgia"
+    },
+    {
+      "id": "5f68e30d59d486072c7a8425",
+      "score": 155,
+      "rank": 52,
+      "username": "Little"
+    },
+    {
+      "id": "5f68e30dbd609e3505f38dab",
+      "score": 273,
+      "rank": 91,
+      "username": "Aguilar"
+    }
+  ]
 }
