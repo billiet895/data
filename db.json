@@ -1,25 +1,25 @@
 {
   "user": {
-    "id": "1234567890987654"
+    "id": "1234567890987654",
     "accountInfo": {
       "username": "user_12345",
       "email": "email@emailprovider.com"
-    }
+    },
     "privacyInfo": {
       "password" "password123",
       "twoFactorAuth": {
         "enabled": false,
         "authenticationTypes": ["email", "mobile"]
       }
-    }
+    },
     "profileInfo": {
       "displayName": "",
       "displayPicture": null,
       "bio": "",
       "profiles": { "twitter": "", "linkedin": "" }
-    }
+    },
     "notificationInfo": {
-      "emailNotifs": true,
+      "emailNotifs": true
     }
   }
 }
